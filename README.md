@@ -10,7 +10,7 @@ The infrastructure is organized into reusable modules and environment-specific c
 
 The landing zone includes the following Azure resources:
 
-- Virtual Network (VNet)
+- Virtual Networks (VNet)
 - Subnets
 - Network Security Groups (NSGs)
 - Azure Virtual Machines (VMs)
