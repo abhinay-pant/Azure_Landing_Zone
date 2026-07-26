@@ -10,11 +10,11 @@ The infrastructure is organized into reusable modules and environment-specific c
 
 The landing zone includes the following Azure resources:
 
-- Virtual Networks (VNet)
+- Virtual Network (VNet)
 - Subnets
 - Network Security Groups (NSGs)
-- Azure Virtual Machines (VMs)
-- Azure Application Gateway
+- Azure Virtual Machines(VMs)
+- Application Gateway
 - Azure Load Balancer
 - Public IP Addresses
 - Network Interfaces
@@ -36,13 +36,6 @@ The landing zone includes the following Azure resources:
 │   └── loadbalancer/
 └── README.md
 ```
-
-## Technologies Used
-
-- Terraform
-- Microsoft Azure
-- Infrastructure as Code (IaC)
-- Git & GitHub
 
 ## Deployment
 
